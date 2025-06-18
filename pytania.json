@@ -1,37 +1,37 @@
 {
   "pytanie": {
-    "tresc": "Co jest lepsze".
+    "tresc": "Co jest lepsze",
     "odpA": "Genshin Impact",
-    "odpB": "Honkai star rail",
+    "odpB": "Project P",
     "odpC": "Zoneless Zone Zero",
-    "odpOK": "Project P"
+    "odpOK": "1"
   }
   "pytanie": {
-    "tresc": "Kim jest AK0110".
+    "tresc": "Kim jest AK0110",
     "odpA": "Ćpunem",
-    "odpB": "Bardzo grzecznym chłopaczkiem",
+    "odpB": "Nachlanym",
     "odpC": "Dobrym graczem Wuwy",
-    "odpOK": "Nachlanym"
+    "odpOK": "1"
   }
   "pytanie": {
-    "tresc": "Kim jest KarixD".
+    "tresc": "Kim jest KarixD",
     "odpA": "Informejtikiem",
     "odpB": "Grzeczny nie przeklinający uczeń",
-    "odpC": "",
-    "odpOK": "Ten co nie ma czasu"
+    "odpC": "Ten co nie ma czasu",
+    "odpOK": "2"
   }
   "pytanie": {
-    "tresc": "Kim jest Wojownik Gier".
+    "tresc": "Kim jest Wojownik Gier",
     "odpA": "Zdrowo umysłowym człowiekiem",
-    "odpB": "",
+    "odpB": "Graczem Starcrafta",
     "odpC": "Kangurem z bólem głowy",
-    "odpOK": ""
+    "odpOK": "1"
   }
   "pytanie": {
-    "tresc": "Kim jest Kxfo".
-    "odpA": "",
-    "odpB": "",
+    "tresc": "Kim jest Kxfo",
+    "odpA": "No life w Wuwie",
+    "odpB": "Grafik Foxtail",
     "odpC": "",
-    "odpOK": ""
+    "odpOK": "0"
   }
 }
