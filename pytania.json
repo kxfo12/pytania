@@ -4,34 +4,34 @@
     "odpA": "Genshin Impact",
     "odpB": "Project P",
     "odpC": "Zoneless Zone Zero",
-    "odpOK": "1"
+    "odpOK": 1
   }
   "pytanie": {
     "tresc": "Kim jest AK0110",
     "odpA": "Ćpunem",
     "odpB": "Nachlanym",
     "odpC": "Dobrym graczem Wuwy",
-    "odpOK": "1"
+    "odpOK": 1
   }
   "pytanie": {
     "tresc": "Kim jest KarixD",
     "odpA": "Informejtikiem",
     "odpB": "Grzeczny nie przeklinający uczeń",
     "odpC": "Ten co nie ma czasu",
-    "odpOK": "2"
+    "odpOK": 2
   }
   "pytanie": {
     "tresc": "Kim jest Wojownik Gier",
     "odpA": "Zdrowo umysłowym człowiekiem",
     "odpB": "Graczem Starcrafta",
     "odpC": "Kangurem z bólem głowy",
-    "odpOK": "1"
+    "odpOK": 1
   }
   "pytanie": {
     "tresc": "Kim jest Kxfo",
     "odpA": "No life w Wuwie",
     "odpB": "Grafik Foxtail",
     "odpC": "",
-    "odpOK": "0"
+    "odpOK": 0
   }
 }
