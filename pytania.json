@@ -1,0 +1,37 @@
+{
+  "pytanie": {
+    "tresc": "Co jest lepsze".
+    "odpA": "Genshin Impact",
+    "odpB": "Honkai star rail",
+    "odpC": "Zoneless Zone Zero",
+    "odpOK": "Project P"
+  }
+  "pytanie": {
+    "tresc": "Kim jest AK0110".
+    "odpA": "Ćpunem",
+    "odpB": "Bardzo grzecznym chłopaczkiem",
+    "odpC": "Dobrym graczem Wuwy",
+    "odpOK": "Nachlanym"
+  }
+  "pytanie": {
+    "tresc": "Kim jest KarixD".
+    "odpA": "Informejtikiem",
+    "odpB": "Grzeczny nie przeklinający uczeń",
+    "odpC": "",
+    "odpOK": "Ten co nie ma czasu"
+  }
+  "pytanie": {
+    "tresc": "Kim jest Wojownik Gier".
+    "odpA": "Zdrowo umysłowym człowiekiem",
+    "odpB": "",
+    "odpC": "Kangurem z bólem głowy",
+    "odpOK": ""
+  }
+  "pytanie": {
+    "tresc": "Kim jest Kxfo".
+    "odpA": "",
+    "odpB": "",
+    "odpC": "",
+    "odpOK": ""
+  }
+}
